@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <RootNamespace>Itmo.ObjectOrientedProgramming.Lab4</RootNamespace>
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+    <ItemGroup>
+      <PackageReference Include="SourceKit.Generators.Builder" />
+    </ItemGroup>
+</Project>
